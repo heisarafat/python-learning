@@ -1,29 +1,39 @@
-# python-learning
-# Python Learning Projects
+🐍 Python Learning Projects
+This repository contains my Python exercises and mini-projects as I build core programming skills on my journey to becoming a Data Scientist.
 
-This repository contains my Python projects and exercises as I learn and improve my programming skills.
+👨‍💻 About
+I’m an entry-level learner actively exploring Python fundamentals through practical exercises. These projects help me strengthen my logic, control flow understanding, and problem-solving ability.
 
-## About
+📂 Projects Covered So Far
+Basic Python syntax and print statements
 
-I am an entry-level learner working on various Python projects to build my understanding of programming concepts, data structures, and problem-solving techniques.
+Variables and data types
 
-## Projects Included
+Conditional statements (if, else, elif)
 
-- Basic Python syntax and concepts
-- Functions and loops
-- Data structures: lists, dictionaries, sets, tuples
-- File handling
-- Simple scripts and small programs
+Comparison and logical operators
 
-What I Learned
+User input handling
+
+Basic interactive programs like:
+
+Voting eligibility checker
+
+Number comparison
+
+Even/Odd and Positive/Negative checks
+
+🧠 What I’m Learning
 Writing Python code from scratch
+
+Handling user input dynamically
+
+Implementing condition-based logic
 
 Debugging and troubleshooting errors
 
-Using basic data structures and control flow
+Thinking algorithmically with control flow
 
-Organizing code into reusable functions
-
-Contact
-If you have questions or feedback, feel free to reach out to me!
+📬 Contact
+Have feedback or want to collaborate? Feel free to reach out!
 
